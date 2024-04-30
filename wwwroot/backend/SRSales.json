@@ -1,0 +1,227 @@
+{
+    "data": [
+      {
+        "name": "Emily Johnson",
+        "id": 1,
+        "group_id": 1,
+        "sales": [
+          {
+            "month": "January 2024",
+            "quantity_sold": 20,
+            "currency_sold": 8000
+          },
+          {
+            "month": "February 2024",
+            "quantity_sold": 25,
+            "currency_sold": 6000
+          },
+          {
+            "month": "March 2024",
+            "quantity_sold": 30,
+            "currency_sold": 10000
+          }
+        ]
+      },
+      {
+        "name": "David Rodriguez",
+        "id": 2,
+        "group_id": 1,
+        "sales": [
+          {
+            "month": "January 2024",
+            "quantity_sold": 15,
+            "currency_sold": 4000
+          },
+          {
+            "month": "February 2024",
+            "quantity_sold": 20,
+            "currency_sold": 5000
+          },
+          {
+            "month": "March 2024",
+            "quantity_sold": 25,
+            "currency_sold": 6000
+          }
+        ]
+      },
+      {
+        "name": "Sophia Chen",
+        "id": 3,
+        "group_id": 1,
+        "sales": [
+          {
+            "month": "January 2024",
+            "quantity_sold": 18,
+            "currency_sold": 4500
+          },
+          {
+            "month": "February 2024",
+            "quantity_sold": 22,
+            "currency_sold": 5500
+          },
+          {
+            "month": "March 2024",
+            "quantity_sold": 28,
+            "currency_sold": 6500
+          }
+        ]
+      },
+      {
+        "name": "Michael Nguyen",
+        "id": 4,
+        "group_id": 2,
+
+        "sales": [
+          {
+            "month": "January 2024",
+            "quantity_sold": 22,
+            "currency_sold": 5500
+          },
+          {
+            "month": "February 2024",
+            "quantity_sold": 28,
+            "currency_sold": 6500
+          },
+          {
+            "month": "March 2024",
+            "quantity_sold": 32,
+            "currency_sold": 7500
+          }
+        ]
+      },
+      {
+        "name": "Olivia Smith",
+        "id": 5,
+        "group_id": 2,
+
+        "sales": [
+          {
+            "month": "January 2024",
+            "quantity_sold": 17,
+            "currency_sold": 4200
+          },
+          {
+            "month": "February 2024",
+            "quantity_sold": 23,
+            "currency_sold": 5300
+          },
+          {
+            "month": "March 2024",
+            "quantity_sold": 27,
+            "currency_sold": 6200
+          }
+        ]
+      },
+      {
+        "name": "Ethan Patel",
+        "id": 6,
+        "group_id": 2,
+        "sales": [
+          {
+            "month": "January 2024",
+            "quantity_sold": 21,
+            "currency_sold": 5200
+          },
+          {
+            "month": "February 2024",
+            "quantity_sold": 27,
+            "currency_sold": 6300
+          },
+          {
+            "month": "March 2024",
+            "quantity_sold": 31,
+            "currency_sold": 7300
+          }
+        ]
+      },
+      {
+        "name": "Isabella Brown",
+        "id": 7,
+        "group_id": 2,
+        "sales": [
+          {
+            "month": "January 2024",
+            "quantity_sold": 16,
+            "currency_sold": 4100
+          },
+          {
+            "month": "February 2024",
+            "quantity_sold": 21,
+            "currency_sold": 5400
+          },
+          {
+            "month": "March 2024",
+            "quantity_sold": 26,
+            "currency_sold": 6100
+          }
+        ]
+      },
+      {
+        "name": "Alexander Kim",
+        "id": 8,
+        "group_id": 2,
+        "sales": [
+          {
+            "month": "January 2024",
+            "quantity_sold": 19,
+            "currency_sold": 4700
+          },
+          {
+            "month": "February 2024",
+            "quantity_sold": 24,
+            "currency_sold": 5800
+          },
+          {
+            "month": "March 2024",
+            "quantity_sold": 29,
+            "currency_sold": 6700
+          }
+        ]
+      },
+      {
+        "name": "Ava Gupta",
+        "id": 9,
+        "group_id": 3,
+        "sales": [
+          {
+            "month": "January 2024",
+            "quantity_sold": 23,
+            "currency_sold": 5700
+          },
+          {
+            "month": "February 2024",
+            "quantity_sold": 29,
+            "currency_sold": 6800
+          },
+          {
+            "month": "March 2024",
+            "quantity_sold": 33,
+            "currency_sold": 7800
+          }
+        ]
+      },
+      {
+        "name": "William Lee",
+        "id": 10,
+        "group_id": 3,
+        "sales": [
+          {
+            "month": "January 2024",
+            "quantity_sold": 18,
+            "currency_sold": 4600
+          },
+          {
+            "month": "February 2024",
+            "quantity_sold": 25,
+            "currency_sold": 5900
+          },
+          {
+            "month": "March 2024",
+            "quantity_sold": 30,
+            "currency_sold": 6900
+          }
+        ]
+      }
+    ]
+  }
+  

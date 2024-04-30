@@ -1,0 +1,21 @@
+{
+    "data": [
+      {
+        "name": "Sales Team",
+        "id": 1
+      },
+      {
+        "name": "Partners",
+        "id": 2
+      },
+      {
+        "name": "Other",
+        "id": 3
+      },
+      {
+        "name": "Everyone",
+        "id": 0
+      }
+    ]
+  }
+  

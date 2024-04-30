@@ -1,0 +1,209 @@
+{
+    "data": [
+      {
+        "name": "Streamify",
+        "ratings": {
+          "January 2023": {"min_rating": 3.5, "avg_rating": 4.2, "max_rating": 4.8},
+          "February 2023": {"min_rating": 3.6, "avg_rating": 4.3, "max_rating": 4.9},
+          "March 2023": {"min_rating": 3.7, "avg_rating": 4.4, "max_rating": 5.0},
+          "April 2023": {"min_rating": 3.8, "avg_rating": 4.5, "max_rating": 5.0},
+          "May 2023": {"min_rating": 3.9, "avg_rating": 4.6, "max_rating": 5.0},
+          "June 2023": {"min_rating": 4.0, "avg_rating": 4.7, "max_rating": 5.0},
+          "July 2023": {"min_rating": 4.1, "avg_rating": 4.8, "max_rating": 5.0},
+          "August 2023": {"min_rating": 4.2, "avg_rating": 4.8, "max_rating": 5.0},
+          "September 2023": {"min_rating": 4.2, "avg_rating": 4.9, "max_rating": 5.0},
+          "October 2023": {"min_rating": 4.3, "avg_rating": 4.9, "max_rating": 5.0},
+          "November 2023": {"min_rating": 4.4, "avg_rating": 4.9, "max_rating": 5.0},
+          "December 2023": {"min_rating": 4.5, "avg_rating": 5.0, "max_rating": 5.0}
+        }
+      },
+      {
+        "name": "TaskMaster",
+        "ratings": {
+          "January 2023": {"min_rating": 3.2, "avg_rating": 3.9, "max_rating": 4.5},
+          "February 2023": {"min_rating": 3.3, "avg_rating": 4.0, "max_rating": 4.6},
+          "March 2023": {"min_rating": 3.4, "avg_rating": 4.1, "max_rating": 4.7},
+          "April 2023": {"min_rating": 3.5, "avg_rating": 4.2, "max_rating": 4.8},
+          "May 2023": {"min_rating": 3.6, "avg_rating": 4.3, "max_rating": 4.9},
+          "June 2023": {"min_rating": 3.7, "avg_rating": 4.4, "max_rating": 5.0},
+          "July 2023": {"min_rating": 3.8, "avg_rating": 4.5, "max_rating": 5.0},
+          "August 2023": {"min_rating": 3.9, "avg_rating": 4.6, "max_rating": 5.0},
+          "September 2023": {"min_rating": 4.0, "avg_rating": 4.7, "max_rating": 5.0},
+          "October 2023": {"min_rating": 4.0, "avg_rating": 4.8, "max_rating": 5.0},
+          "November 2023": {"min_rating": 4.1, "avg_rating": 4.8, "max_rating": 5.0},
+          "December 2023": {"min_rating": 4.2, "avg_rating": 4.9, "max_rating": 5.0}
+        }
+      },
+      {
+        "name": "FinancePro",
+        "ratings": {
+          "January 2023": {"min_rating": 3.6, "avg_rating": 4.3, "max_rating": 4.9},
+          "February 2023": {"min_rating": 3.7, "avg_rating": 4.4, "max_rating": 5.0},
+          "March 2023": {"min_rating": 3.8, "avg_rating": 4.5, "max_rating": 5.0},
+          "April 2023": {"min_rating": 3.9, "avg_rating": 4.6, "max_rating": 5.0},
+          "May 2023": {"min_rating": 4.0, "avg_rating": 4.7, "max_rating": 5.0},
+          "June 2023": {"min_rating": 4.0, "avg_rating": 4.8, "max_rating": 5.0},
+          "July 2023": {"min_rating": 4.1, "avg_rating": 4.8, "max_rating": 5.0},
+          "August 2023": {"min_rating": 4.2, "avg_rating": 4.9, "max_rating": 5.0},
+          "September 2023": {"min_rating": 4.3, "avg_rating": 4.9, "max_rating": 5.0},
+          "October 2023": {"min_rating": 4.4, "avg_rating": 4.9, "max_rating": 5.0},
+          "November 2023": {"min_rating": 4.5, "avg_rating": 5.0, "max_rating": 5.0},
+          "December 2023": {"min_rating": 4.6, "avg_rating": 5.0, "max_rating": 5.0}
+        }
+      },
+      {
+        "name": "HealthTrack",
+        "ratings": {
+          "January 2023": {"min_rating": 3.3, "avg_rating": 4.0, "max_rating": 4.6},
+          "February 2023": {"min_rating": 3.4, "avg_rating": 4.1, "max_rating": 4.7},
+          "March 2023": {"min_rating": 3.5, "avg_rating": 4.2, "max_rating": 4.8},
+          "April 2023": {"min_rating": 3.6, "avg_rating": 4.3, "max_rating": 4.9},
+          "May 2023": {"min_rating": 3.7, "avg_rating": 4.4, "max_rating": 5.0},
+          "June 2023": {"min_rating": 3.8, "avg_rating": 4.5, "max_rating": 5.0},
+          "July 2023": {"min_rating": 3.9, "avg_rating": 4.6, "max_rating": 5.0},
+          "August 2023": {"min_rating": 4.0, "avg_rating": 4.7, "max_rating": 5.0},
+          "September 2023": {"min_rating": 4.0, "avg_rating": 4.8, "max_rating": 5.0},
+          "October 2023": {"min_rating": 4.1, "avg_rating": 4.8, "max_rating": 5.0},
+          "November 2023": {"min_rating": 4.2, "avg_rating": 4.9, "max_rating": 5.0},
+          "December 2023": {"min_rating": 4.3, "avg_rating": 5.0, "max_rating": 5.0}
+        }
+      },
+      {
+        "name": "SocialSphere",
+        "ratings": {
+          "January 2023": {"min_rating": 3.7, "avg_rating": 4.4, "max_rating": 5.0},
+          "February 2023": {"min_rating": 3.8, "avg_rating": 4.5, "max_rating": 5.0},
+          "March 2023": {"min_rating": 3.9, "avg_rating": 4.6, "max_rating": 5.0},
+          "April 2023": {"min_rating": 4.0, "avg_rating": 4.7, "max_rating": 5.0},
+          "May 2023": {"min_rating": 4.0, "avg_rating": 4.8, "max_rating": 5.0},
+          "June 2023": {"min_rating": 4.1, "avg_rating": 4.8, "max_rating": 5.0},
+          "July 2023": {"min_rating": 4.2, "avg_rating": 4.9, "max_rating": 5.0},
+          "August 2023": {"min_rating": 4.3, "avg_rating": 4.9, "max_rating": 5.0},
+          "September 2023": {"min_rating": 4.4, "avg_rating": 4.9, "max_rating": 5.0},
+          "October 2023": {"min_rating": 4.5, "avg_rating": 5.0, "max_rating": 5.0},
+          "November 2023": {"min_rating": 4.6, "avg_rating": 5.0, "max_rating": 5.0},
+          "December 2023": {"min_rating": 4.7, "avg_rating": 5.0, "max_rating": 5.0}
+        }
+      },
+      {
+        "name": "ProjectPlanner",
+        "ratings": {
+          "January 2023": {"min_rating": 3.5, "avg_rating": 4.2, "max_rating": 4.8},
+          "February 2023": {"min_rating": 3.6, "avg_rating": 4.3, "max_rating": 4.9},
+          "March 2023": {"min_rating": 3.7, "avg_rating": 4.4, "max_rating": 5.0},
+          "April 2023": {"min_rating": 3.8, "avg_rating": 4.5, "max_rating": 5.0},
+          "May 2023": {"min_rating": 3.9, "avg_rating": 4.6, "max_rating": 5.0},
+          "June 2023": {"min_rating": 4.0, "avg_rating": 4.7, "max_rating": 5.0},
+          "July 2023": {"min_rating": 4.1, "avg_rating": 4.8, "max_rating": 5.0},
+          "August 2023": {"min_rating": 4.2, "avg_rating": 4.8, "max_rating": 5.0},
+          "September 2023": {"min_rating": 4.2, "avg_rating": 4.9, "max_rating": 5.0},
+          "October 2023": {"min_rating": 4.3, "avg_rating": 4.9, "max_rating": 5.0},
+          "November 2023": {"min_rating": 4.4, "avg_rating": 4.9, "max_rating": 5.0},
+          "December 2023": {"min_rating": 4.5, "avg_rating": 5.0, "max_rating": 5.0}
+        }
+      },
+      {
+        "name": "TravelBuddy",
+        "ratings": {
+          "January 2023": {"min_rating": 3.8, "avg_rating": 4.5, "max_rating": 5.0},
+          "February 2023": {"min_rating": 3.9, "avg_rating": 4.6, "max_rating": 5.0},
+          "March 2023": {"min_rating": 4.0, "avg_rating": 4.7, "max_rating": 5.0},
+          "April 2023": {"min_rating": 4.0, "avg_rating": 4.8, "max_rating": 5.0},
+          "May 2023": {"min_rating": 4.1, "avg_rating": 4.8, "max_rating": 5.0},
+          "June 2023": {"min_rating": 4.2, "avg_rating": 4.9, "max_rating": 5.0},
+          "July 2023": {"min_rating": 4.3, "avg_rating": 4.9, "max_rating": 5.0},
+          "August 2023": {"min_rating": 4.4, "avg_rating": 4.9, "max_rating": 5.0},
+          "September 2023": {"min_rating": 4.5, "avg_rating": 5.0, "max_rating": 5.0},
+          "October 2023": {"min_rating": 4.6, "avg_rating": 5.0, "max_rating": 5.0},
+          "November 2023": {"min_rating": 4.7, "avg_rating": 5.0, "max_rating": 5.0},
+          "December 2023": {"min_rating": 4.8, "avg_rating": 5.0, "max_rating": 5.0}
+        }
+      },
+      {
+        "name": "PhotoGenius",
+        "ratings": {
+          "January 2023": {"min_rating": 3.4, "avg_rating": 4.1, "max_rating": 4.7},
+          "February 2023": {"min_rating": 3.5, "avg_rating": 4.2, "max_rating": 4.8},
+          "March 2023": {"min_rating": 3.6, "avg_rating": 4.3, "max_rating": 4.9},
+          "April 2023": {"min_rating": 3.7, "avg_rating": 4.4, "max_rating": 5.0},
+          "May 2023": {"min_rating": 3.8, "avg_rating": 4.5, "max_rating": 5.0},
+          "June 2023": {"min_rating": 3.9, "avg_rating": 4.6, "max_rating": 5.0},
+          "July 2023": {"min_rating": 4.0, "avg_rating": 4.7, "max_rating": 5.0},
+          "August 2023": {"min_rating": 4.0, "avg_rating": 4.8, "max_rating": 5.0},
+          "September 2023": {"min_rating": 4.1, "avg_rating": 4.8, "max_rating": 5.0},
+          "October 2023": {"min_rating": 4.2, "avg_rating": 4.9, "max_rating": 5.0},
+          "November 2023": {"min_rating": 4.3, "avg_rating": 4.9, "max_rating": 5.0},
+          "December 2023": {"min_rating": 4.4, "avg_rating": 5.0, "max_rating": 5.0}
+        }
+      },
+      {
+        "name": "NoteWave",
+        "ratings": {
+          "January 2023": {"min_rating": 3.2, "avg_rating": 3.9, "max_rating": 4.5},
+          "February 2023": {"min_rating": 3.3, "avg_rating": 4.0, "max_rating": 4.6},
+          "March 2023": {"min_rating": 3.4, "avg_rating": 4.1, "max_rating": 4.7},
+          "April 2023": {"min_rating": 3.5, "avg_rating": 4.2, "max_rating": 4.8},
+          "May 2023": {"min_rating": 3.6, "avg_rating": 4.3, "max_rating": 4.9},
+          "June 2023": {"min_rating": 3.7, "avg_rating": 4.4, "max_rating": 5.0},
+          "July 2023": {"min_rating": 3.8, "avg_rating": 4.5, "max_rating": 5.0},
+          "August 2023": {"min_rating": 3.9, "avg_rating": 4.6, "max_rating": 5.0},
+          "September 2023": {"min_rating": 4.0, "avg_rating": 4.7, "max_rating": 5.0},
+          "October 2023": {"min_rating": 4.0, "avg_rating": 4.8, "max_rating": 5.0},
+          "November 2023": {"min_rating": 4.1, "avg_rating": 4.8, "max_rating": 5.0},
+          "December 2023": {"min_rating": 4.2, "avg_rating": 4.9, "max_rating": 5.0}
+        }
+      },
+      {
+        "name": "ShopSmart",
+        "ratings": {
+          "January 2023": {"min_rating": 3.6, "avg_rating": 4.3, "max_rating": 4.9},
+          "February 2023": {"min_rating": 3.7, "avg_rating": 4.4, "max_rating": 5.0},
+          "March 2023": {"min_rating": 3.8, "avg_rating": 4.5, "max_rating": 5.0},
+          "April 2023": {"min_rating": 3.9, "avg_rating": 4.6, "max_rating": 5.0},
+          "May 2023": {"min_rating": 4.0, "avg_rating": 4.7, "max_rating": 5.0},
+          "June 2023": {"min_rating": 4.0, "avg_rating": 4.8, "max_rating": 5.0},
+          "July 2023": {"min_rating": 4.1, "avg_rating": 4.8, "max_rating": 5.0},
+          "August 2023": {"min_rating": 4.2, "avg_rating": 4.9, "max_rating": 5.0},
+          "September 2023": {"min_rating": 4.3, "avg_rating": 4.9, "max_rating": 5.0},
+          "October 2023": {"min_rating": 4.4, "avg_rating": 4.9, "max_rating": 5.0},
+          "November 2023": {"min_rating": 4.5, "avg_rating": 5.0, "max_rating": 5.0},
+          "December 2023": {"min_rating": 4.6, "avg_rating": 5.0, "max_rating": 5.0}
+        }
+      },
+      {
+        "name": "LearnEasy",
+        "ratings": {
+          "January 2023": {"min_rating": 3.5, "avg_rating": 4.2, "max_rating": 4.8},
+          "February 2023": {"min_rating": 3.6, "avg_rating": 4.3, "max_rating": 4.9},
+          "March 2023": {"min_rating": 3.7, "avg_rating": 4.4, "max_rating": 5.0},
+          "April 2023": {"min_rating": 3.8, "avg_rating": 4.5, "max_rating": 5.0},
+          "May 2023": {"min_rating": 3.9, "avg_rating": 4.6, "max_rating": 5.0},
+          "June 2023": {"min_rating": 4.0, "avg_rating": 4.7, "max_rating": 5.0},
+          "July 2023": {"min_rating": 4.1, "avg_rating": 4.8, "max_rating": 5.0},
+          "August 2023": {"min_rating": 4.2, "avg_rating": 4.8, "max_rating": 5.0},
+          "September 2023": {"min_rating": 4.2, "avg_rating": 4.9, "max_rating": 5.0},
+          "October 2023": {"min_rating": 4.3, "avg_rating": 4.9, "max_rating": 5.0},
+          "November 2023": {"min_rating": 4.4, "avg_rating": 4.9, "max_rating": 5.0},
+          "December 2023": {"min_rating": 4.5, "avg_rating": 5.0, "max_rating": 5.0}
+        }
+      },
+      {
+        "name": "GameZone",
+        "ratings": {
+          "January 2023": {"min_rating": 3.7, "avg_rating": 4.4, "max_rating": 5.0},
+          "February 2023": {"min_rating": 3.8, "avg_rating": 4.5, "max_rating": 5.0},
+          "March 2023": {"min_rating": 3.9, "avg_rating": 4.6, "max_rating": 5.0},
+          "April 2023": {"min_rating": 4.0, "avg_rating": 4.7, "max_rating": 5.0},
+          "May 2023": {"min_rating": 4.0, "avg_rating": 4.8, "max_rating": 5.0},
+          "June 2023": {"min_rating": 4.1, "avg_rating": 4.8, "max_rating": 5.0},
+          "July 2023": {"min_rating": 4.2, "avg_rating": 4.9, "max_rating": 5.0},
+          "August 2023": {"min_rating": 4.3, "avg_rating": 4.9, "max_rating": 5.0},
+          "September 2023": {"min_rating": 4.4, "avg_rating": 4.9, "max_rating": 5.0},
+          "October 2023": {"min_rating": 4.5, "avg_rating": 5.0, "max_rating": 5.0},
+          "November 2023": {"min_rating": 4.6, "avg_rating": 5.0, "max_rating": 5.0},
+          "December 2023": {"min_rating": 4.7, "avg_rating": 5.0, "max_rating": 5.0}
+        }
+      }
+    ]
+  }
+  

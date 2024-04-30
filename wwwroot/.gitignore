@@ -1,5 +1,5 @@
 /build
-/backend
+/backend/endpoint
 bootstrap.*
 classic.json*
 modern.json*
